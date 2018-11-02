@@ -1,0 +1,25 @@
+* {
+    padding:0;
+    margin:0;
+}
+
+body {
+    font-family: 'Cabin Sketch', cursive;
+    color: black;
+}
+
+h1 {
+    font-size: 4em;
+    margin-top:50px;
+}
+
+h3 {
+    font-size:2.5em;
+    margin-bottom:20px;
+}
+
+li {
+    margin-bottom:5px;
+    margin-top:5px;
+    font-size:1.3em;
+}
